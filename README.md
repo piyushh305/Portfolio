@@ -2,7 +2,7 @@
 
 A sleek, modern, dark-themed personal portfolio website built to showcase my background in AI & Data Science, academic achievements, and technical projects. Designed from scratch with a focus on smooth animations, glassmorphism, and responsive UI.
 
-🌐 **Live Demo:** [Insert Link Here]
+🌐 **Live Demo:** https://piyushh305.github.io/Portfolio/
 
 ## ✨ Features
 
